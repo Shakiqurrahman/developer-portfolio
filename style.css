@@ -39,3 +39,20 @@ section {
     background-repeat: no-repeat;
 
 }
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.second-image {
+    width: 40%;
+    padding-left: 3%;
+
+}
